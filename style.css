@@ -1,0 +1,30 @@
+* {
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+}
+nav {
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-line {
+    display: flex;
+    align-items: center;
+
+    margin-left: 0px;
+    margin-top: 28px;
+
+}
+
+.gray-b {
+    background-color: rgb(216, 214, 214);
+    width: 1900px;
+    height: 300px;
+}
+
+.account-reviwe {
+    display: grid;
+}
